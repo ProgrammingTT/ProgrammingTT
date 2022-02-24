@@ -1,5 +1,5 @@
 ### Hi there 👋
-#### I am ProgrammingTT. I make different projects using HTML, CSS, and javascript.
+#### I am ProgrammingTT. I make different projects using HTML, CSS, and JavaScript.
 Visit my [YouTube](https://www.youtube.com/c/ProgrammingTT) channel and watch my project video.
 <!--
 **ProgrammingTT/ProgrammingTT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
