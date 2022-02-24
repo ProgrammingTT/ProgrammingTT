@@ -5,6 +5,8 @@
 > 1. [Create Simple HTTP Server In Node.js](https://youtu.be/IrpBXvJS6iM)
 > 2. [Input value from command shell (cmd) in Node.js](https://youtu.be/9va-092F7sA)
 > 3. [How to create triangle in HTML CSS](https://youtu.be/Yge0DPPGdgM)
+> 4. [Create Toggle Button In HTML | Without using JavaScript](https://youtu.be/MM2GzEyRB20)
+> 5. [How to make loading page in html-css.](https://youtu.be/z74ZVSO4GJg)
 <!--
 **ProgrammingTT/ProgrammingTT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
