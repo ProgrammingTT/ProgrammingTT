@@ -7,6 +7,11 @@
 > 3. [How to create triangle in HTML CSS](https://youtu.be/Yge0DPPGdgM)
 > 4. [Create Toggle Button In HTML | Without using JavaScript](https://youtu.be/MM2GzEyRB20)
 > 5. [How to make loading page in html-css.](https://youtu.be/z74ZVSO4GJg)
+> 6. [TikTok Loading Page Using HTML-CSS](https://youtu.be/F3plhmwQ1Y4)
+> 7. [Sidebar Menu HTML CSS | Without JavaScript](https://youtu.be/IdMREOLsY4U)
+> 8. [Show Hide Password In HTML](https://youtu.be/09zP0meJkZY)
+> 9. [Fullscreen Video Background With HTML And CSS](https://youtu.be/KPp0AYOZFJk)
+> 10. [Accordion Menu Using HTML And CSS Only | Pure HTML And CSS Only](https://youtu.be/g3VgopZ-Jy0)
 <!--
 **ProgrammingTT/ProgrammingTT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
